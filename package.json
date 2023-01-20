@@ -1,0 +1,27 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwestx99/bank-challenge.git"
+  },
+  "author": "Chris West",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwestx99/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/cwestx99/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.4.0"
+  }
+}
